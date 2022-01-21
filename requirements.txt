@@ -21,7 +21,7 @@ hyperlink==19.0.0
 idna==2.8
 incremental==17.5.0
 ipdb==0.12
-ipython==7.6.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.14.1
 kaitaistruct==0.8
