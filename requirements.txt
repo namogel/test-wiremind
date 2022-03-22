@@ -27,7 +27,7 @@ jedi==0.14.1
 kaitaistruct==0.8
 ldap3==2.5.2
 lxml==4.3.4
-mitmproxy==4.0.4
+mitmproxy==8.0.0
 parsel==1.5.1
 parso==0.5.1
 passlib==1.7.1
